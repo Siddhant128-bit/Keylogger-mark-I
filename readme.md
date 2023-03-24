@@ -1,4 +1,4 @@
-<h2> Project Key Logger </h2>
+<h1 align='center'> Project Key Logger </h1>
 
 <div align='center'>
   <h3> Disclaimer</h3>
